@@ -1,0 +1,182 @@
+=====================================
+       QUICK REVIEWER — TOPICS 2–5
+=====================================
+
+
+=====================================
+2️⃣  INTRODUCTION TO COMPUTER
+=====================================
+
+What is a computer?
+An electronic machine that takes in data, processes it,
+and produces results — fast and accurately.
+
+HOW IT WORKS: Input → Process → Output
+  - Input:   keyboard, mouse, mic, camera
+  - Process: CPU calculates
+  - Output:  screen, speakers, printer
+
+HARDWARE vs. SOFTWARE
+  Hardware = physical parts (stays the same until changed)
+  Software = instructions (easy to add/update/remove)
+
+KEY HARDWARE COMPONENTS
+  CPU       — "Brain"; has Control Unit + ALU
+  RAM       — Fast, short-term; cleared when powered off
+  ROM       — Permanent; stores startup instructions
+  Storage   — Long-term home for files and programs
+
+STORAGE TYPES
+  HDD → SSD → USB/Cards → Cloud
+
+INPUT DEVICES:  keyboard, mouse, mic, scanner, webcam
+OUTPUT DEVICES: monitor, printer, speakers, projector
+  * Touchscreen = both input AND output
+
+BINARY
+  Computers only understand 1s and 0s.
+  Bit → Byte (8 bits) → KB → MB → GB
+
+SOFTWARE TYPES
+  System software      — OS (Windows, macOS, Linux, Android, iOS)
+  Application software — browsers, word processors, games, messaging
+
+NETWORKING
+  Linking 2+ computers to share data.
+  LAN = Local Area Network (home/office)
+
+
+=====================================
+3️⃣  COMPUTER HARDWARE & NETWORKING ESSENTIALS
+=====================================
+
+CORE INTERNAL COMPONENTS
+  Motherboard   — Main circuit board linking everything
+  CPU           — Executes instructions
+  RAM           — Temporary storage for active tasks
+  GPU           — Renders graphics
+  Power supply  — Converts wall power for components
+
+PERIPHERALS
+  Input:  keyboard, mouse, scanner, mic, webcam, touchscreen
+  Output: monitor, printer, speakers, projector
+
+STORAGE COMPARISON
+  HDD        — High capacity, low cost, spinning disks
+  SSD        — Faster, silent, no moving parts
+  USB flash  — Small, portable
+  Cloud      — Remote servers, internet access
+
+NETWORK HARDWARE
+  Router       — Shares internet; directs traffic
+  Switch       — Connects multiple wired devices
+  Modem        — Bridges network to ISP
+  Access point — Adds Wi-Fi
+  Firewall     — Filters traffic; protects network
+  NIC          — Lets a device join a network
+
+DATA FLOW
+  Internet → Modem → Router → Switch → Devices
+
+CABLE TYPES
+  Ethernet · Fiber optic · Coaxial · Wi-Fi · Bluetooth
+
+
+=====================================
+4️⃣  COMPUTER TROUBLESHOOTING
+=====================================
+
+THE MINDSET
+  1. Stay calm
+  2. Be systematic
+  3. Change one thing at a time
+  4. Document everything
+
+HARDWARE vs. SOFTWARE PROBLEMS
+  Hardware: won't power on, no display, overheating, strange noises
+  Software: crashes, error messages, slow system, viruses
+
+THE 6-STEP TROUBLESHOOTING PROCESS
+  Step 1 — IDENTIFY    Gather symptoms; note recent changes
+  Step 2 — THEORIZE    Start with the simplest explanation
+  Step 3 — TEST        One variable at a time; confirm or rule out
+  Step 4 — FIX         Back up first; apply carefully
+  Step 5 — VERIFY      Confirm fix; check nothing else broke
+  Step 6 — DOCUMENT    Record symptom, cause, and solution
+
+COMMON PROBLEMS & QUICK FIXES
+  Won't turn on   → Check power cable, outlet, PSU
+  No display      → Reseat monitor cable; try another port
+  Running slow    → Close apps; restart; scan for malware
+  No internet     → Restart router; check Wi-Fi/cables
+  Overheating     → Clear dust; check fans
+  Blue screen     → Note the error code; undo recent drivers
+
+SAFETY
+  DO:    Power down before opening, back up data, work methodically
+  DON'T: Work on live power, force connectors, make multiple changes at once
+
+TOOLKIT
+  Hardware: screwdrivers, anti-static wrist strap, compressed air
+  Software: Task Manager, Device Manager, Antivirus, Safe Mode
+
+
+=====================================
+5️⃣  SOFTWARE TROUBLESHOOTING
+=====================================
+
+MINDSET
+  Stay calm · Follow a method · Change one thing at a time
+
+THE 6-STEP PROCESS
+  Step 1 — DEFINE      What happened? Capture the exact error.
+  Step 2 — REPRODUCE   Find reliable steps that trigger it.
+  Step 3 — GATHER      Read logs; list recent changes.
+  Step 4 — ISOLATE     Test one part at a time; try Safe Mode.
+  Step 5 — FIX & TEST  One change; verify; undo if it didn't work.
+  Step 6 — DOCUMENT    Record cause, fix, and prevention steps.
+
+COMMON ISSUES & FIXES
+  Won't start / crashes  → Restart, update, reinstall; check logs
+  Running slow           → Free up disk/memory; close heavy apps
+  Frozen                 → End the task; check CPU/memory usage
+  Error messages         → Note the exact code; search the precise wording
+  Can't connect          → Check network, firewall/VPN; confirm service is up
+  Compatibility issues   → Update or roll back; check version requirements
+
+USEFUL TOOLS
+  Event Viewer · Task Manager · Ping/network tools · Official docs & forums
+
+BEST PRACTICES
+  - Restart first
+  - One change at a time
+  - Ask "what changed recently?"
+  - Back up before big changes
+  - Verify the fix fully
+
+WHEN TO ESCALATE
+  - Risk of data loss
+  - Affects many users
+  - Needs permissions you don't have
+  - No fix after reasonable effort — hand off with your notes
+
+
+=====================================
+          END OF REVIEWER
+=====================================
+Zyann Coby
+USEFUL TOOLS
+  Event Viewer · Task Manager · Ping/network tools · Official docs & forums
+ 
+BEST PRACTICES
+  - Restart first
+  - One change at a time
+  - Ask "what changed recently?"
+  - Back up before big changes
+  - Verify the fix fully
+ 
+WHEN TO ESCALATE
+  - Risk of data loss
+  - Affects many users
+  - Needs permissions you don't have
+  - No fix after reasonable effort — hand off with your notes
